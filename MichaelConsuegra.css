@@ -1,0 +1,116 @@
+
+
+.navigationbar
+{
+	position: fixed;
+	top:0; /*positions the navigation bar top of the page */
+	width: 100%;
+	
+
+	
+}
+
+.jumbotron 
+{
+	min-height: 300px;
+	padding-top: 100px;
+
+
+}
+
+.Experience
+{
+	padding-left: 100px;
+	padding-bottom: 20px;
+	
+	
+}
+
+
+
+/*
+.BackgroundExperience
+{
+	background-color: white;
+}
+
+WHITE BACKGROUND FOR EXPERIENCE LAYOUT
+*/
+
+#ImageORCLOGO
+{
+	border-radius: 100%;
+
+	padding-left: 0px;
+
+	float:left;
+
+	padding-bottom: 1px;
+
+}
+
+
+#FooterIcons 
+{
+	border-radius: 80%;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+/*EDUCATION EDITTING */
+
+#HECLOGO
+{
+	border-radius: 10%;
+	
+}
+
+#ValenciaCollegeLakeNona
+{
+	border-radius: 10%;
+
+	padding-left: 0px;
+
+	
+
+	
+	
+}
+
+#WesternHighSchool
+{
+	
+	border-radius: 10%;
+	right: 40%;
+	
+
+}
+
+.EducationParagraphs
+{
+	padding-right: 50px;
+}
+
+.container
+{
+	line-height: 200%;
+}
+
+.EducationLineSpacing
+{
+	line-height: 400%;
+
+}
+
+h4 
+{
+	text-align: auto;
+
+}
+
+
+.col-md-4
+{
+	padding-bottom: 50px;
+}
+
